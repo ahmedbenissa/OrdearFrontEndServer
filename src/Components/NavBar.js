@@ -23,7 +23,7 @@ export default function NavBar()
                  
 
                   <a href="#footer" class="nav-item nav-link">Contact</a>
-                  <a href="/landing_page" class="nav-item nav-link"><img src={ukFlag} width="80px" height="40px"/></a>
+                  <a href="/" class="nav-item nav-link"><img src={ukFlag} width="80px" height="40px"/></a>
                   <a href="/welcomeFr" class="nav-item nav-link"><img src={frFlag} width="80px" height="40px"/></a>
               </div>
           </div>
